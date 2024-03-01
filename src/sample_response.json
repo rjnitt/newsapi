@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kirsten Korosec",
+      "title": "Stellantis CEO dishes on Waymo, Rivian cuts staff and the great EV softening continues | TechCrunch",
+      "description": "TechCrunch Mobility is a weekly newsletter dedicated to all things transportation. This week, read about Uber, Waymo, Rivian and more.",
+      "url": "https://techcrunch.com/2024/02/25/stellantis-ceo-dishes-on-waymo-rivian-cuts-staff-and-the-great-ev-softening-continues/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/carlos-tavares-getty.jpg?resize=1200,800",
+      "publishedAt": "2024-02-25T23:42:57Z",
+      "content": "TechCrunch Mobility is a weekly newsletter dedicated to all things transportation. Sign up here  just click TechCrunch Mobility  to receive the newsletter every weekend in your inbox. Subscribe for f… [+7639 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Brian Heater",
+      "title": "These desktop lamps beam near-infrared light, in a bid to improve your mood | TechCrunch",
+      "description": "As humans spend increasing amounts of time indoors, we lose access to the sun’s natural benefits. Recognition of season affective disorder has grown",
+      "url": "https://techcrunch.com/2024/02/25/these-desktop-lamps-beam-near-infrared-light-in-a-bid-to-improve-your-mood/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/Screenshot-2024-02-25-at-8.18.54 PM.jpg?resize=1200,800",
+      "publishedAt": "2024-02-25T19:22:59Z",
+      "content": "As humans spend increasing amounts of time indoors, we lose access to the suns natural benefits. Recognition of season affective disorder has grown accordingly. While the actual occurrence of the con… [+2750 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Brian Heater",
+      "title": "Heck, might as well put the back of your phone to work | TechCrunch",
+      "description": "The back of your phone is useless. There. I said it. Sure, the cameras are back that, but what about all of that blank real estate monopolizing 90% of the",
+      "url": "https://techcrunch.com/2024/02/25/heck-might-as-well-put-the-back-of-your-phone-to-work/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/IMG_0226.jpg?resize=1200,900",
+      "publishedAt": "2024-02-25T17:47:04Z",
+      "content": "The back of your phone is useless. There. I said it. Sure, the cameras are back that, but what about all of that blank real estate monopolizing 90% of the surface area? Honestly, it needs to start ca… [+2345 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kirsten Korosec",
+      "title": "Stellantis CEO says there's still life in Waymo deal for self-driving delivery vans | TechCrunch",
+      "description": "Stellantis CEO Carlos Tavares said the automaker is working to deepen its partnership with autonomous vehicle company Waymo.",
+      "url": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/Waymo-LOGO-door.jpg?resize=1200,721",
+      "publishedAt": "2024-02-23T22:57:56Z",
+      "content": "Stellantis, the automaker that owns 14 brands including Chrysler, Jeep and Ram, and autonomous vehicle technology company Waymo are not only still working together, the companies are deepening the pa… [+3178 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers and Devin Coldewey",
+      "title": "This Week in AI: Addressing racism in AI image generators | TechCrunch",
+      "description": "In this edition of TC's semiregular newsletter, This Week in AI, we talk racial biases and AI-powered image generators.",
+      "url": "https://techcrunch.com/2024/02/24/this-week-in-ai-addressing-racism-in-ai-image-generators/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1062086882.jpg?resize=1200,800",
+      "publishedAt": "2024-02-23T22:36:34Z",
+      "content": "Keeping up with an industry as fast-moving as AI is a tall order. So until an AI can do it for you, heres a handy roundup of recent stories in the world of machine learning, along with notable resear… [+9641 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Dominic-Madori Davis",
+      "title": "Amba Kak creates policy recommendations to address AI concerns | TechCrunch",
+      "description": "As a part of a multi-part series, TechCrunch is highlighting women innovators — from academics to policymakers — in the field of AI.",
+      "url": "https://techcrunch.com/2024/02/25/amba-kak-creates-policy-recommendations-to-address-ai-concerns/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-kak.jpg?resize=1200,675",
+      "publishedAt": "2024-02-23T22:22:27Z",
+      "content": "To give AI-focused women academics and others their well-deserved and overdue time in the spotlight, TechCrunch is launching a series of interviews focusing on remarkable women whove contributed to t… [+6635 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Alex Wilhelm",
+      "title": "Equity Shot: All about the Reddit IPO! | TechCrunch",
+      "description": "Today's special episode of Equity digs into the Reddit IPO filing, the company's revenue and what this all means for companies in the wings.",
+      "url": "https://techcrunch.com/2024/02/24/equity-shot-all-about-the-reddit-ipo/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1246072387.jpg?resize=1200,800",
+      "publishedAt": "2024-02-23T20:45:28Z",
+      "content": "Listen here or wherever you get your podcasts.\r\nHello, and welcome to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\r\nWeekend team, we … [+838 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Anna Heim and Alex Wilhelm",
+      "title": "With liquidity rare, VCs may get creative to return investor cash | TechCrunch",
+      "description": "Welcome to the very last issue of The Exchange! With TechCrunch+ sunsetting this month, The Exchange column and its newsletter are also coming to an end.",
+      "url": "https://techcrunch.com/2024/02/24/with-liquidity-rare-vcs-may-get-creative-to-return-investor-cash/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1289163664.jpg?resize=1200,800",
+      "publishedAt": "2024-02-23T19:28:39Z",
+      "content": "Welcome to the very last issue of The Exchange! With TechCrunch+ sunsetting this month, The Exchange column and its newsletter are also coming to an end. Thank you for reading, emailing, tweeting, an… [+9797 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "Google releases new open LLMs, Rivian lays off staff and Signal rolls out usernames | TechCrunch",
+      "description": "In this edition of TC's Week in Review (WiR), we cover Google launching new open models, MariaDB potentially going private and more.",
+      "url": "https://techcrunch.com/2024/02/24/google-releases-new-open-ai-models-layoffs-at-rivian-and-signal-rolls-out-usernames/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?resize=1200,675",
+      "publishedAt": "2024-02-23T01:46:06Z",
+      "content": "Welcome, folks, to Week in Review (WiR), TechCrunchs regular newsletter covering noteworthy happenings in the tech industry.\r\nThis week, Google launched two new open large language models, Gemma 2B a… [+3335 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Rebecca Szkutak",
+      "title": "Europe remains hard to crack for North American GPs | Europe remains hard to crack for North American GPs",
+      "description": "While North American VCs can see the potential value in backing European startups, it hasn't been easy for firms to launch strategies.",
+      "url": "https://techcrunch.com/2024/02/25/europe-remains-hard-to-crack-for-north-american-gps/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-84545203.jpg?resize=1200,803",
+      "publishedAt": "2024-02-22T21:45:29Z",
+      "content": "A few years ago, setting up shop in Europe was the soup du jour for North American VCs. From OMERs and Lightspeed to Bessemer Venture Partners, the market attracted firms of all sizes, and the Spotif… [+7058 chars]"
+    }
+  ]
+}
