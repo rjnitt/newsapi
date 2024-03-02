@@ -3,7 +3,7 @@ import spinner from "./Basketball.gif";
 
 const Spinner = () => {
   return (
-    <div className="text-center">
+    <div className="text-center ">
       <img src={spinner} alt="loading" />
     </div>
   );

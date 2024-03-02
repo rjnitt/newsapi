@@ -1,10 +1,12 @@
 import Navbar from "./component/Navbar";
 import React from "react";
 import News from "./component/News";
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import NewsSolo from "./component/NewsSolo";
 
 const App = () => {
-  const pageSize = 4;
+  const pageSize = 1;
   const newsApiKey = process.env.REACT_APP_NEWS_API_KEY;
 
   return (
@@ -16,7 +18,7 @@ const App = () => {
           <Route
             path="/"
             element={
-              <News
+              <NewsSolo
                 key="general"
                 pagesize={pageSize}
                 apiKey={newsApiKey}
@@ -28,7 +30,7 @@ const App = () => {
           <Route
             path="/general"
             element={
-              <News
+              <NewsSolo
                 key="general"
                 pagesize={pageSize}
                 apiKey={newsApiKey}
@@ -40,7 +42,7 @@ const App = () => {
           <Route
             path="/business"
             element={
-              <News
+              <NewsSolo
                 key="business"
                 pagesize={pageSize}
                 apiKey={newsApiKey}
@@ -52,7 +54,7 @@ const App = () => {
           <Route
             path="/technology"
             element={
-              <News
+              <NewsSolo
                 key="technology"
                 pagesize={pageSize}
                 apiKey={newsApiKey}
@@ -64,7 +66,7 @@ const App = () => {
           <Route
             path="/sports"
             element={
-              <News
+              <NewsSolo
                 key="sports"
                 pagesize={pageSize}
                 apiKey={newsApiKey}
@@ -76,7 +78,7 @@ const App = () => {
           <Route
             path="/science"
             element={
-              <News
+              <NewsSolo
                 key="science"
                 pagesize={pageSize}
                 apiKey={newsApiKey}
@@ -88,7 +90,7 @@ const App = () => {
           <Route
             path="/health"
             element={
-              <News
+              <NewsSolo
                 key="health"
                 pagesize={pageSize}
                 apiKey={newsApiKey}
@@ -100,7 +102,7 @@ const App = () => {
           <Route
             path="/entertainment"
             element={
-              <News
+              <NewsSolo
                 key="entertainment"
                 pagesize={pageSize}
                 apiKey={newsApiKey}

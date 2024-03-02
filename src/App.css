@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.swipe-up-container {
+  width: 100%;
+  /* height: 100vh; */
+  height: 100%;
+  overflow: hidden;
+  align-items: flex-end;
+  position: relative;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
